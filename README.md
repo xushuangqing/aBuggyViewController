@@ -4,11 +4,11 @@ I just want to present a landscape view controller from a portait view controlle
 
 Here is a screenshot
 
-![](https://raw.githubusercontent.com/xushuangqing/aBuggyViewController/master/screenshot.jpeg =320x)
+![](https://raw.githubusercontent.com/xushuangqing/aBuggyViewController/master/screenshot.jpeg)
 
 However, when I print [UIScreen mainScreen].bounds or [Application sharedApplication].keyWindow or [Application sharedApplication].interfaceOrientation, they are all right.
 
-![](https://raw.githubusercontent.com/xushuangqing/aBuggyViewController/master/debugger.png =640x)
+![](https://raw.githubusercontent.com/xushuangqing/aBuggyViewController/master/debugger.png)
 
 This bug only appears on iOS10.
 
